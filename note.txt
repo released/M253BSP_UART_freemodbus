@@ -1,0 +1,17 @@
+reference link
+
+https://github.com/OpenNuvoton/NUC230_240BSP/tree/master/SampleCode/NuEdu/Smpl_Basic01_Modbus_UART
+
+http://www.nuvoton-mcu.com/forum.php?mod=viewthread&tid=1686
+
+https://blog.csdn.net/qq_42992084/article/details/107590803
+
+https://www.amobbs.com/thread-5491615-1-1.html
+
+https://github.com/RT-Thread-packages/freemodbus
+
+https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32
+
+
+
+

@@ -1,0 +1,1 @@
+diagslave\win\diagslave.exe -m rtu -a 10 -b 115200 -d 8 -p none COM27
