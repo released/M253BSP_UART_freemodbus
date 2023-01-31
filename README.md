@@ -58,3 +58,5 @@ b.modpoll_input_register.bat , to test slave function
 
 ![image](https://github.com/released/M253BSP_UART_freemodbus/blob/main/tool_modpoll_log1.jpg)	
 
+![image](https://github.com/released/M253BSP_UART_freemodbus/blob/main/tool_modpoll_log2.jpg)	
+
